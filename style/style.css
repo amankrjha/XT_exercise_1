@@ -1,0 +1,12 @@
+body{
+	background-color: lightgrey;
+	width: 600px;
+	margin: auto;
+}
+div{
+	text-align: center;;
+	border: 2px solid white;
+}
+.top_div{
+	margin-bottom: 15px;
+}
